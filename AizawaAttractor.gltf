@@ -1,0 +1,25 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v3.6.28",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"name":"Scene",
+			"nodes":[
+				0
+			]
+		}
+	],
+	"nodes":[
+		{
+			"name":"AizawaAttractor",
+			"scale":[
+				19.5836238861084,
+				19.5836238861084,
+				19.5836238861084
+			]
+		}
+	]
+}
