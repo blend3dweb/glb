@@ -9,32 +9,32 @@
     "collider_0": {
       "name": "collider",
       "type": "sphere",
-      "radius": 1.00000006585093
+      "radius": 0.13932612122617669
     },
     "collider_1": {
       "name": "collider_5",
       "type": "sphere",
-      "radius": 1.00000006585093
+      "radius": 0.13932612122617669
     },
     "collider_2": {
       "name": "collider_2",
       "type": "sphere",
-      "radius": 1.00000006585093
+      "radius": 0.13932612122617669
     },
     "collider_3": {
       "name": "collider_3",
       "type": "sphere",
-      "radius": 1.00000006585093
+      "radius": 0.13932612122617669
     },
     "collider_4": {
       "name": "collider_4",
       "type": "sphere",
-      "radius": 1.00000006585093
+      "radius": 0.13932612122617669
     },
     "collider_5": {
       "name": "collider_1",
       "type": "sphere",
-      "radius": 1.00000006585093
+      "radius": 0.13932612122617669
     }
   },
   "compound_shapes": {}
